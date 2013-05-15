@@ -9,8 +9,8 @@ Here are some recommended companion settings in user `Preferences.subline-settin
 ```javascript
 {
   "caret_style": "wide",
-	"font_face": "Consolas",
-	"font_size": 17.0,
-	"highlight_line": true,
+  "font_face": "Consolas",
+  "font_size": 17.0,
+  "highlight_line": true
 }
 ```
